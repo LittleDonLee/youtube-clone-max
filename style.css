@@ -59,13 +59,13 @@ header .icons .fa-search{
 
     /*video player */
 
-    /*
+    
     .player{
         position: sticky;
         top:0;
         text-align: center;
         background-color: var(--black-color);
-    } */
+    } 
 
     
 
@@ -176,8 +176,8 @@ body > .info{
 .UpNext > .title {
     font-size: var(--font-medium);
     color:var(--grey-dark-color);
-
 }
+
 .UpNext .item {
     display: flex;
     margin-top: var(--padding);
